@@ -834,7 +834,7 @@ namespace PokerProbability
             {
                 string url = "";
 
-                string business = "funckymat@gmail.com";  // your paypal email
+                string business = "youremail@gmail.ca";  // your paypal email
                 string description = "Donation";            // '%20' represents a space. remember HTML!
                 string country = "US";                  // AU, US, etc.
                 string currency = "USD";                 // AUD, USD, etc.
